@@ -1,6 +1,6 @@
 # @solflare-wallet/sdk
 
-## Example
+## Example 
 
 ```javascript
 import Solflare from '@solflare-wallet/sdk';
